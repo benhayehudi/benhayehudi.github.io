@@ -41,6 +41,6 @@ The [RZman](https://github.com/benhayehudi/rzman) gem relies on scraping two dif
 
 Happy *davening* and *Shabbat Shalom*!
 
-[[Get RZman]](https://github.com/benhayehudi/rzman)
+[RZman](https://github.com/benhayehudi/rzman) now available on [RubyGems.org](https://rubygems.org/gems/rzman).
 
 
