@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Introducing RZman: Ruby Zmanim CLI Gem"
-date:   2017-06-16 04:12:39 +0000
+date:   2017-06-16 00:12:39 -0400
 ---
 
-
-[[Get RZman]](https://github.com/benhayehudi/rzman)
 
 It's Friday afternoon and you are rushing to finish the last of your chores before שבת (*Shabbat*, the Jewish Sabbath) begins. In the midst of the rushing you stop and wonder how much time do you *really* have before candle lighting? It's Tuesday and the workday is a grind. Is it too early to pray מנחה, the afternoon service? Is it too late?
 
@@ -13,7 +11,9 @@ It's Friday afternoon and you are rushing to finish the last of your chores befo
 
 **Now there is with [RZman](https://github.com/benhayehudi/rzman/), the Ruby Zmanim gem!**
 
-[RZman](https://github.com/benhayehudi/rzman) is a CLI (command line interface) Ruby application that will provide you with the זמנים, the daily prayer times and Shabbat candle lighting times customized for you based on your zipcode. Let's take a walk through of the program.
+[RZman](https://github.com/benhayehudi/rzman) is a CLI (command line interface) Ruby application that will provide you with the זמנים, the daily prayer times and Shabbat candle lighting times customized for you based on your zipcode. Let's take a walk through of the program. Follow along in the [YouTube video](https://www.youtube.com/watch?v=6UT_QlbfKqU):
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/6UT_QlbfKqU" frameborder="0" allowfullscreen></iframe>
 
 When you first run [RZman](https://github.com/benhayehudi/rzman) you will encounter the main menu:
 
