@@ -4,9 +4,8 @@ title:  "Formatting Is Not Just For Newbies"
 date:   2017-07-18 15:49:46 -0400
 ---
 
-![](http://i.imgur.com/V8gGUWv.png)
 
-After two months in the immersive online web development program at the [Flatiron School](https://flatironschool.com/) I am very much in the midst of learning Ruby on Rails. First, I learned both Procedural and Object Oriented Ruby then I learned HTML, CSS, SQL, ActiveRecord and Sinatra. I completed two final projects. One project is published at [Ruby Gems](https://rubygems.org/gems/rzman) and the other one has been successfully deployed to Heroku with a [custom domain name](http://www.yomkef.fun/) and a PostgreSQL databas utilizing the BCrypt Ruby gem to allow for the creation of secure user accounts. 
+![](http://i.imgur.com/V8gGUWv.png)After two months in the immersive online web development program at the [Flatiron School](https://flatironschool.com/) I am very much in the midst of learning Ruby on Rails. First, I learned both Procedural and Object Oriented Ruby then I learned HTML, CSS, SQL, ActiveRecord and Sinatra. I completed two final projects. One project is published at [Ruby Gems](https://rubygems.org/gems/rzman) and the other one has been successfully deployed to Heroku with a [custom domain name](http://www.yomkef.fun/) and a PostgreSQL databas utilizing the BCrypt Ruby gem to allow for the creation of secure user accounts. 
 
 I started off this journey in web development knowing very little about coding and, two months later, I genuinely feel like I can actually do this. When beginning in the program it is easy to feel a bit of what has been called *imposter syndrome*. Am I really learning or just mimicking the instructions? However, it is through the creation of the final projects, which are programs you create entirely from scratch, that empower you in your own developing skillset. 
 
