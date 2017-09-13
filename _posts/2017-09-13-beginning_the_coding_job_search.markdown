@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beginning The Coding Job Search"
-date:   2017-09-13 22:46:17 +0000
+date:   2017-09-13 18:46:18 -0400
 ---
 
 
