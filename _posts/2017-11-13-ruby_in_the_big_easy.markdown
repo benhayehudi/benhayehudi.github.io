@@ -1,12 +1,10 @@
 ---
 layout: post
 title:      "Ruby in The Big Easy"
-date:       2017-11-13 16:24:03 +0000
+date:       2017-11-13 11:24:03 -0500
 permalink:  ruby_in_the_big_easy
 ---
 
-
-![RubyConf](https://thepracticaldev.s3.amazonaws.com/i/6bw85vrtzxmenhi3m9ov.jpg)
 
 This week I will be 🛫 flying down to New Orleans, the Big Easy, for my first [RubyConf](http://rubyconf.org/). I am fortunate to have been selected as a RubyConf *Scholar* this year, meaning that the conference has graciously chosen to cover the cost of my attendance and connected me with a *Guide*, a more seasoned participant who can help shape my experience (I even got two guides: *👋 Hi Stella & Caleb!*). I would not have been able to attend RubyConf without this generosity, and even if I would have been able to, my experience would certainly not be as rich and meaningful without the additional support and programming, so I am immensely grateful.  
 
