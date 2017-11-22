@@ -33,8 +33,6 @@ When you learn to code, you quickly fall in love with it. If you don’t have a 
 
 This conference I made a lot of new friends, fellow Opportunity Scholars and seasoned programmers alike. We met in the hallway in between sessions, sat together during presentations, enjoyed Cafe Du Monde in the evening and sipped cocktails on Saturday night. A couple of these people I knew as screen names on Slack before, but most I did not know at all beforehand. I got to meet a “developer evangelist,” who quickly explained she wasn’t there to convert me and who even offered me a shoutout on Twitter after and people working on really interesting open source projects out in Ohio, fellow New Yorkers (lots of people from Brooklyn) and a couple from Colombia who just got back from spending a year traveling the world. I met a lot of bootcamp grads and current bootcamp students from all over, including Seattle, Denver, Austin and other places.
 
-{% twitter 931946747194171397 %}
-
 I am so excited to keep in touch with all these folks that I had the opportunity to meet and become friends with. The next RubyConf in 2018 is now not a theoretical idea, but a concrete opportunity to reconnect with real people, with an actual community of coders and Rubyists.
 
 **Learning, Learning and More Learning**
